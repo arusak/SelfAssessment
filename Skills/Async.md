@@ -1,10 +1,10 @@
 ## Asynchronous programming
 
 - Theory
-  - Event loop k
-  - `try..catch` h
-  - Non-blocking k
-  - Async I/O u
+  - Event loop: 🎓 known
+  - `try..catch`: 👂 heard
+  - Non-blocking: 🎓 known
+  - Async I/O: 🖐️ used
   - Thread pool
   - Pattern Reactor
   - CAS operations
@@ -12,21 +12,21 @@
   - kqueue
   - Completion ports
   - Event ports
-  - libuv h
-  - Race conditions k
-  - Dead locks k
+  - libuv: 👂 heard
+  - Race conditions: 🎓 known
+  - Dead locks: 🎓 known
   - Live locks
-  - Concurrent programming k
+  - Concurrent programming: 🎓 known
   - Parallel programming
   - Actor Model
-  - Thread u
-  - Process h
+  - Thread: 🖐️ used
+  - Process: 👂 heard
 - Async contracts
   - Callbacks
   - Callback-last-error-first
   - Thenable
-  - Promise u
-  - Async/await u
+  - Promise: 🖐️ used
+  - Async/await: 🖐️ used
   - Future
   - Deferred
   - Sync generator
@@ -42,12 +42,12 @@
   - Locks
 - Async adapters and utils
   - callbackify
-  - promisify u
+  - promisify: 🖐️ used
   - asyncify
   - Callbacks compose
   - Async compose
 - Async abstractions interfaces
-  - EventEmitter u
+  - EventEmitter: 🖐️ used
   - Observable/Observer
   - Readable
   - Writable
@@ -60,15 +60,15 @@
   - Spin Lock
 - JavaScript & Node.js specific
   - Timers
-  - `setImmediate` u
+  - `setImmediate`: 🖐️ used
   - `nextTick`
-  - AbortController u
-  - AbortSignal u
+  - AbortController: 🖐️ used
+  - AbortSignal: 🖐️ used
   - Promise unhandled rejection
   - Promise double resolve
   - Atomics
   - High resolution clock
-  - Callback hell k
+  - Callback hell: 🎓 known
   - Promise hell
   - ref() and unref()
   - Error handling in async code
@@ -78,11 +78,11 @@
   - AsyncResource
 - Techniques
   - Async.js library
-  - RxJS library e
-  - Promise.all u
-  - Promise.allSettled u
+  - RxJS library: 🙋 explained
+  - Promise.all: 🖐️ used
+  - Promise.allSettled: 🖐️ used
   - Promise.race
-  - Promise.any u
+  - Promise.any: 🖐️ used
   - Web Locks API
   - IPC
   - Channel API

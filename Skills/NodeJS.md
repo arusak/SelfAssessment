@@ -3,22 +3,22 @@
 - Internals and concepts
   - Strong and weak sides of node.js
   - Stateful and stateless servers
-  - Nonblocking I/O and blocking code h
-  - Event loop phases h
-  - Event loop microtasks and macrotasks h
-  - Garbage collection h
+  - Nonblocking I/O and blocking code: 👂 heard
+  - Event loop phases: 👂 heard
+  - Event loop microtasks and macrotasks: 👂 heard
+  - Garbage collection: 👂 heard
   - Node.js LTS schedule
   - I/O-bound, CPU-bound, memory-bound tasks
   - Interactive applications (close to real-time)
 - Modularity, layers and dependencies
-  - CommonJS modules u
-  - ECMAScript modules u
+  - CommonJS modules: 🖐️ used
+  - ECMAScript modules: 🖐️ used
   - Module `node:module`
   - Caching in CJS and ESM
-  - Modules as singletons u
+  - Modules as singletons: 🖐️ used
   - Contexts and scripts module `node:vm`
-  - Dependencies: `npm`, `node_modules` u
-  - Files `package.json`, `package-lock.json` u
+  - Dependencies: `npm`, `node_modules`: 🖐️ used
+  - Files `package.json`, `package-lock.json`: 🖐️ used
   - Module-based permissions model
   - Isolation with modularity
   - Dependency injection
@@ -26,12 +26,12 @@
   - Coupling and cohesion
   - Framework agnostic approach
 - Environment
-  - Command line arguments u
-  - Node.js CLI h
+  - Command line arguments: 🖐️ used
+  - Node.js CLI: 👂 heard
   - Process-based permissions
   - Graceful shutdown
   - Clustering
-  - Watch filesystem changes with --watch u
+  - Watch filesystem changes with --watch: 🖐️ used
 - Internal API
   - Streams API
   - Web Streams API
@@ -65,7 +65,7 @@
   - SNI callback
   - SSL certificates
   - Protocol agnostic approach
-  - Fetch API u
+  - Fetch API: 🖐️ used
   - IncomingMessage
   - HTTP(S)
   - TCP/SSL

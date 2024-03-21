@@ -1,22 +1,22 @@
 ## Architecture
 
 - Application structure
-  - Modularity h
-  - Components u
+  - Modularity: 👂 heard
+  - Components: 🖐️ used
   - Directories
-  - GRASP h
-  - SOLID e
-  - GoF patterns u
+  - GRASP: 👂 heard
+  - SOLID: 🙋 explained
+  - GoF patterns: 🖐️ used
   - CQS
-  - Leaking abstractions k
+  - Leaking abstractions: 🎓 known
   - Multiparadigm code
   - Contract programming
   - Platform-agnostic
   - Transport-agnostic
-  - Framework-agnostic h
-  - Code coverage u
-  - Cohesion h
-  - Coupling u
+  - Framework-agnostic: 👂 heard
+  - Code coverage: 🖐️ used
+  - Cohesion: 👂 heard
+  - Coupling: 🖐️ used
   - Cyclomatic complexity
   - Reliability
   - Quality
@@ -24,77 +24,77 @@
   - Flexibility
   - Law of Demeter (LoD)
 - Application architecture
-  - Isolation between layer u
-  - Domain-specific language (DSL) h
+  - Isolation between layer: 🖐️ used
+  - Domain-specific language (DSL): 👂 heard
   - System vs applied code
   - Multilayer approach
   - Hexagonal architecture
-  - Separation of concerns (SoC) k
-  - Metaprogramming h
-  - Inversion of control (IoC) u
-  - Dependency injection (DI) u
-  - Clean architecture u
-  - Domain-driven design (DDD) h
-  - Pub/sub h
+  - Separation of concerns (SoC): 🎓 known
+  - Metaprogramming: 👂 heard
+  - Inversion of control (IoC): 🖐️ used
+  - Dependency injection (DI): 🖐️ used
+  - Clean architecture: 🖐️ used
+  - Domain-driven design (DDD): 👂 heard
+  - Pub/sub: 👂 heard
   - Message brocker
   - Agent
   - Service locator
-  - Message Queue (MQ) k
+  - Message Queue (MQ): 🎓 known
   - CQRS
   - Event sourcing
   - E-R data modeling
-  - Entity-relationship diagram u
-  - IDEF1X h
-  - UML u
+  - Entity-relationship diagram: 🖐️ used
+  - IDEF1X: 👂 heard
+  - UML: 🖐️ used
   - Work breakdown structure
   - Budget estimation
-  - Distributed systems h
+  - Distributed systems: 👂 heard
   - High-intensive computing
   - Load balancing
   - Gateways
   - On-premises
   - IaaS
   - PaaS
-  - SaaS k
+  - SaaS: 🎓 known
   - FaaS clouds
-  - Serverless u
-  - Vendor lock-in k
+  - Serverless: 🖐️ used
+  - Vendor lock-in: 🎓 known
   - Bus factor
 - Solution architecture
   - A software requirements specification (SRS)
   - Solution visions
   - Solution capabilities
-  - System design h
-  - Process modelling h
-  - Data modelling h
+  - System design: 👂 heard
+  - Process modelling: 👂 heard
+  - Data modelling: 👂 heard
   - Solution components
   - Risk assessment
   - Non Functional Requirements (NFR)
   - Clouds
   - BPMN
-  - Low-code k
-  - No-code k
-  - Metric h
+  - Low-code: 🎓 known
+  - No-code: 🎓 known
+  - Metric: 👂 heard
   - Metric abuse
   - ACID
   - CAP theorem
-  - Single source of truth (SSOT) u
+  - Single source of truth (SSOT): 🖐️ used
 - Enterprise architecture
-  - Understanding business needs u
+  - Understanding business needs: 🖐️ used
   - Enterprise strategy
   - Integration with subsystems
   - Enterprise vision
   - Enterprise capabilities
-  - Project scope u
-  - Enterprise service bus h
+  - Project scope: 🖐️ used
+  - Enterprise service bus: 👂 heard
   - Service-oriented architecture
-  - Microservices h
+  - Microservices: 👂 heard
   - Process choreography
   - Service orchestration
   - Data warehouse
-  - Business Intelligence h
-  - OLAP h
+  - Business Intelligence: 👂 heard
+  - OLAP: 👂 heard
   - OLTP
   - Conways Law
-  - Quality assurance u
+  - Quality assurance: 🖐️ used
   - Engineering Hygiene
